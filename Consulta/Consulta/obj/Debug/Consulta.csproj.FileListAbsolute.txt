@@ -1,0 +1,387 @@
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Consulta.exe.config
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Consulta.exe
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Consulta.pdb
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Adapters.SalesOrder.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.SalesOrder.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Core.Session.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.EpiClientLib.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Epicor.ServiceModel.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.EpiResourceLib.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinEditors.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Shared.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.Misc.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDock.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTabControl.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Common.ContractInterfaces.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.SessionMod.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Deployment.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Epicor.Ice.Version.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.AppSettingsHandler.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.BOReader.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.UserFile.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.UserTracing.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Cryptography.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.BroadcastTower.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinListView.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Custom.CodeEditLib.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinChart.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinMaskedEdit.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinSchedule.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTree.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinToolbars.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.Attachment.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Help.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.Company.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClassAttribute.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGauge.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.PredictiveSearch.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Epicor.Social.DataContracts.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.GenXData.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.Menu.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.ClientPlugins.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.BAQDesigner.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.DynamicQuery.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDataSource.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.SysTag.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Microsoft.mshtml.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.QuickSearch.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinSpellChecker.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.AppStylistSupport.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.NamedSearch.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.About.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClientCache.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Sec.SecRights.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.ZDataTable.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.ExcelReader.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.FileTransfer.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Logon.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.SysConfig.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\VisualStudioDebugHelper.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.RestrictedLicenseLib.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Documents.Excel.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinPrintPreviewDialog.v12.2.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.LangTran.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Epicor.App.Version.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Edit.Windows.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Base.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.Annotation.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.LangName.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.FileTransfer.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.ChangePassword.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Core.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.EpiClientLib.dll.config
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinEditors.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Shared.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.Misc.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDock.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTabControl.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinListView.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinChart.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinMaskedEdit.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinSchedule.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTree.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinToolbars.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGauge.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDataSource.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinSpellChecker.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.AppStylistSupport.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Documents.Excel.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinPrintPreviewDialog.v12.2.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Edit.Windows.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Base.xml
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.SalesOrder.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.SalesOrder.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.EpiClientLib.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Epicor.ServiceModel.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.EpiResourceLib.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.Deployment.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.UserFile.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.UserTracing.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.Help.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.Company.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.GenXData.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.Menu.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.BAQDesigner.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.DynamicQuery.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.QuickSearch.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.NamedSearch.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.About.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.ExcelReader.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.Logon.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-CO\Ice.Contracts.BO.LangName.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.LangName.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.ChangePassword.resources.dll
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.csprojResolveAssemblyReference.cache
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.constructor.constuctorsevidor.resources
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.Form1.resources
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.Cache
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.exe
+c:\users\programadorit\documents\visual studio 2017\Projects\Consulta\Consulta\obj\Debug\Consulta.pdb
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Adapters.ARInvoice.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Adapters.Customer.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.ARInvoice.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.CashGrp.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.Customer.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.ARInvoice.xml
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.ARInvoice.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.Customer.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.ARInvoice.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.CashGrp.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2017\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.Customer.resources.dll
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.csprojResolveAssemblyReference.cache
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.Cache
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.exe
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.pdb
+H:\YHON\Consulta\Consulta\bin\Debug\Consulta.exe.config
+H:\YHON\Consulta\Consulta\bin\Debug\Consulta.exe
+H:\YHON\Consulta\Consulta\bin\Debug\Consulta.pdb
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Core.Session.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.EpiResourceLib.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinEditors.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Shared.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.Misc.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDock.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTabControl.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.SessionMod.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.Deployment.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Epicor.Ice.Version.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.AppSettingsHandler.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.UserFile.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.UserTracing.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.Cryptography.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinToolbars.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Microsoft.mshtml.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.LangTran.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Epicor.App.Version.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinEditors.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Shared.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.Misc.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDock.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTabControl.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinToolbars.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.EpiResourceLib.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.Deployment.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.UserFile.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.UserTracing.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Adapters.Part.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.Part.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.PartBinSearch.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.UI.PartEntry.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.UI.PartTracker.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Adapters.Part.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.Part.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-CO\Erp.Adapters.Part.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.Part.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-CO\Erp.Contracts.BO.Part.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.Part.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClientCache.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClassAttribute.dll
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.Partesvendidas.resources
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Adapters.JobMtlSearch.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.JobMtlSearch.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.JobMtlSearch.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.Rpt.JobProdDtl.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.UIRpt.JobMtlReqReport.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Common.ContractInterfaces.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.EpiReportLib.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.Rpt.JobMtlReqReport.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.UI.EpiUIFunctionLib.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Adapters.JobEntry.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinListView.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTree.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDataSource.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.FileTransfer.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinPrintPreviewDialog.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Windows.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Adapters.SysAgent.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.XlsIO.Base.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.RoutingBreakingRules.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Base.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.SysPrinter.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.SysAgent.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.Report.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.SupportDialogs.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.ClientFunctions.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Adapters.LangName.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.RptStylePrintersList.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.UI.Controls.Combos.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.JobEntry.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.FileTransfer.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Windows.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Core.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Base.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Compression.Base.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Lib.WorkflowDesigner.Shared.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.FormulaBuilder.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClientFunctions.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.LangName.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinListView.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTree.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDataSource.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinPrintPreviewDialog.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Windows.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.XlsIO.Base.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Base.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.SupportDialogs.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.JobEntry.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Windows.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Base.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Syncfusion.Compression.Base.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.FormulaBuilder.xml
+H:\YHON\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.xml
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.JobMtlSearch.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.EpiReportLib.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.JobEntry.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.RoutingBreakingRules.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-CO\Ice.Contracts.BO.SysAgent.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.SysAgent.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-CO\Ice.Adapters.LangName.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Adapters.LangName.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.JobEntry.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-CO\Ice.Contracts.BO.LangName.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.LangName.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\SessionManagerClient.dll
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.Form2.resources
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.Form3.resources
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.Form4.resources
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Adapters.Quote.dll
+H:\YHON\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.Quote.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.Quote.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.Quote.resources.dll
+H:\YHON\Consulta\Consulta\bin\Debug\MetroFramework.dll
+H:\YHON\Consulta\Consulta\obj\Debug\Consulta.cotizacion.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.exe
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.pdb
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.csprojResolveAssemblyReference.cache
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.cotizacion.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.Form2.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.Form3.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.Form4.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.VisorCotizacion.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.Partesvendidas.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.Cache
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Consulta.exe
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Consulta.pdb
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.EpiResourceLib.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinEditors.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Shared.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.Misc.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDock.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTabControl.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Erp.Common.ContractInterfaces.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.EpiReportLib.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinToolbars.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.Rpt.JobMtlReqReport.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.UI.EpiUIFunctionLib.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Erp.Adapters.JobEntry.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClassAttribute.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.SessionMod.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Deployment.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Epicor.Ice.Version.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.AppSettingsHandler.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.UserFile.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.UserTracing.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.Cryptography.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinListView.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTree.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDataSource.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.FileTransfer.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinPrintPreviewDialog.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.LangTran.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Adapters.SysAgent.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.RoutingBreakingRules.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.SysPrinter.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.SysAgent.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.Report.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.SupportDialogs.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.ClientFunctions.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Adapters.LangName.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.RptStylePrintersList.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Erp.UI.Controls.Combos.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.JobEntry.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Epicor.App.Version.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.FileTransfer.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Core.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Lib.WorkflowDesigner.Shared.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.FormulaBuilder.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.Lib.ClientFunctions.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Ice.Contracts.BO.LangName.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinGrid.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinEditors.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Shared.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.Misc.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDock.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTabControl.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinToolbars.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinListView.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinTree.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinDataSource.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinPrintPreviewDialog.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.SupportDialogs.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Erp.Contracts.BO.JobEntry.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.FormulaBuilder.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v12.2.xml
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-CO\Erp.Adapters.Part.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.Part.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.Quote.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.JobMtlSearch.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-CO\Erp.Contracts.BO.Part.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.Part.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.Quote.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.EpiResourceLib.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.EpiReportLib.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Adapters.JobEntry.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.Deployment.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.UserFile.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.UserTracing.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Lib.RoutingBreakingRules.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-CO\Ice.Contracts.BO.SysAgent.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.SysAgent.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-CO\Ice.Adapters.LangName.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Adapters.LangName.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Erp.Contracts.BO.JobEntry.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-CO\Ice.Contracts.BO.LangName.resources.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\Consulta\Consulta\bin\Debug\es-MX\Ice.Contracts.BO.LangName.resources.dll

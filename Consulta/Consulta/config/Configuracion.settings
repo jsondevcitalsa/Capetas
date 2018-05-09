@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Consulta.config" GeneratedClassName="Configuracion">
+  <Profiles />
+  <Settings>
+    <Setting Name="usuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">programadorit</Value>
+    </Setting>
+    <Setting Name="contraseña" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Morpheo79</Value>
+    </Setting>
+    <Setting Name="servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">net.tcp://Galgadot/Epicor10Test</Value>
+    </Setting>
+    <Setting Name="ruta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Epicor\ERP10.1Client\Client\config\Epicor10Test.sysconfig</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
